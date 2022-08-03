@@ -1,9 +1,7 @@
 # Star Wars Urban
 
-An assignment from Urban Piper.
+An assignment from Allica Bank.
 A star wars search component, which lets user search characters and view their details.
-
-[Live Demo](https://urban-piper-starwars.vercel.app/)
 
 ### Usage
 
@@ -80,9 +78,3 @@ I don't own the content such as images or icons on this web app, this was purely
 
 ![image](https://user-images.githubusercontent.com/39058941/120082334-fd9b8580-c0df-11eb-812b-70f091736baf.png)
 ![image](https://user-images.githubusercontent.com/39058941/120082345-0ee49200-c0e0-11eb-85d1-77c139547831.png)
- 
-
-
-### Contributors
-
-[Akshay Kadam](https://akshaykadam.tech/)
